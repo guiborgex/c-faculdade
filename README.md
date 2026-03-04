@@ -24,3 +24,4 @@ Repositório com atividades da disciplina de Linguagem C.
 - Linguagem C
 - GCC
 - VS Code
+- DevC++
