@@ -2,18 +2,26 @@
 
 Repositório com atividades da disciplina de Linguagem C.
 
+## 👤 Informações Acadêmicas
+
+- Nome: Guilherme Borges de Gouveia
+- RA: 26006989-2
+- Turma: Engenharia de Software | 3º Período Noite
+- Disciplina: ESTRUTURAS DE DADOS
+- Professor: SIDNEI MARTINS DE JESUS
+- Instituição: Unicesumar
+
 📌 Início das atividades a partir da Aula 01.
 
 ---
 
 ## 📂 Estrutura
 
-- 20260304/
+- 20260302/
   - exercicio01/
-  - exercicio02/
   - bubble-sort/
 
-- 20260311/
+- 20260304/
   - busca-vetor/
   - desafio01/
 
