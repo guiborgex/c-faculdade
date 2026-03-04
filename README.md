@@ -22,8 +22,8 @@ Repositório com atividades da disciplina de Linguagem C.
   - bubble-sort/
 
 - 20260304/
-  - busca-vetor/
-  - desafio01/
+  - exercicio1/
+  - ...
 
 ---
 
