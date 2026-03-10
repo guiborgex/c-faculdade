@@ -6,7 +6,7 @@ Repositório com atividades da disciplina de Linguagem C.
 
 - Nome: Guilherme Borges de Gouveia
 - RA: 26006989-2
-- Turma: Engenharia de Software | 3º Período Noite
+- Turma: Engenharia de Software | 3º Período Noite | Turma A
 - Disciplina: ESTRUTURAS DE DADOS
 - Professor: SIDNEI MARTINS DE JESUS
 - Instituição: Unicesumar
